@@ -1,0 +1,6 @@
+C:\Items\Zou\Zou\bin\Zou.dll.config
+C:\Items\Zou\Zou\bin\Zou.dll
+C:\Items\Zou\Zou\bin\Zou.pdb
+C:\Items\Zou\Zou\obj\Debug\Zou.csprojResolveAssemblyReference.cache
+C:\Items\Zou\Zou\obj\Debug\Zou.dll
+C:\Items\Zou\Zou\obj\Debug\Zou.pdb
